@@ -50,4 +50,4 @@ Users should be able to:
 ## Author
 - Name - Okanlawon Mariam
 - Frontend Mentor - [@Mariamokann](https://www.frontendmentor.io/profile/Mariamokann)
-- Twitter - [@agirlintech_](https://www.twitter.com/agirlintech_)
+- Twitter - [@mariam_okan](https://www.twitter.com/mariam_okan)
